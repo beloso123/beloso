@@ -1,0 +1,2 @@
+# beloso
+latihan joongkoding
